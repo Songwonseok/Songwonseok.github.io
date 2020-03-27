@@ -1,8 +1,8 @@
 ---
 title: "Portfolio poster"
 layout: category
-permalink: /Portfolio/
-taxonomy: portfolio
+permalink: /Project/
+taxonomy: Project
 author_profile: true
 ---
-This is a post related to portfolio. 🚀
+This is a post related to Project. 🚀

@@ -1,5 +1,5 @@
 ---
-title: "Portfolio poster"
+title: "Project poster"
 layout: category
 permalink: /Project/
 taxonomy: Project

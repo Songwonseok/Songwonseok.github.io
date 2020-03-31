@@ -1,7 +1,7 @@
 ---
 title: "Portfolio poster"
 layout: category
-permalink: /Project/
+permalink: /Portfolio/
 taxonomy: Portfolio
 author_profile: true
 ---

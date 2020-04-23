@@ -1,7 +1,7 @@
 ﻿---
 title: "Wonhae Food"
 date: 2019-11-20 08:26:28 -0400
-categories: portpolio
+categories: portfolio
 ---
 [공공데이터를 이용한 안전 먹거리 정보제공 웹 프로젝트]
 

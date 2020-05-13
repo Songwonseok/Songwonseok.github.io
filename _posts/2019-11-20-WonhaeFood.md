@@ -36,7 +36,7 @@ categories: Portfolio
 
 ## 서비스 개요
 
-![safefood2](../assets/images/WonhaeFood/p1.png)
+![safefood2](../../assets/images/WonhaeFood/p1.png)
 ```
 - 상품의 재료, 성분, 칼로리 등을 제공합니다.
 
@@ -78,12 +78,12 @@ MultipartRequest : 이미지 업로드
 
 
 ### 추가기능
-![safefood3](../assets/images/WonhaeFood/p3.png)
+![safefood3](../../assets/images/WonhaeFood/p3.png)
 
 <iframe width="1008" height="506" src="https://www.youtube.com/embed/TgN0_GeOi2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Stack
-![safefood](../assets/images/WonhaeFood/p2.png)
+![safefood](../../assets/images/WonhaeFood/p2.png)
 
 ## Team
 - 송원석

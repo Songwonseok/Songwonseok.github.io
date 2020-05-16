@@ -5,8 +5,6 @@ categories: Study
 ---
 
 
-# Pyautogui를 이용한 마우스, 키보드 자동화
-
 ### 설치
 
 ```
@@ -45,7 +43,7 @@ pyautogui.typewrite(['a','b','c','enter']) # abc + 줄바꿈 / ['abc']는 실행
 #### 실습1) 메모장 키고 타이핑 하기
 
 ```
-![메모장](C:\Users\multicampus\Desktop\입원공ㄴ부\메모장.JPG)import pyautogui
+import pyautogui
 import time
 
 pyautogui.moveTo(1645,433) # 메모장 위치
@@ -62,7 +60,7 @@ pyautogui.typewrite("hello")
 
 #### 실습2) 클릭할 부분 스크린샷 찍고 클릭하기
 
-숫자 1을 누르려고 했을 때 계산기의 위치가 이동하면 숫자 1의 좌표값도 변경됨
+1을 누르려고 했을 때 계산기의 위치가 이동하면 1의 좌표값도 변경됨
 
 ![](../../assets/images/study/pyautogui/계산기1.JPG)
 
@@ -73,13 +71,17 @@ pyautogui.typewrite("hello")
 이럴땐 클릭할 부분에 스크린샷을 찍어서 좌표값을 구하면 됨
 
 ```
+import pyautogui
+
 #1번의 좌표가 (x= 1357, y=670)
 pyautogui.screenshot('1.png',region=(1357,670,30,30)) # 1.png라는 파일이 생김
 num1 = pyautogui.locateCenterOnScreen('1.png') #스크린샷의 center 좌표값을 구함
 pyautogui.click(num1) #1번을 클릭
 ```
 
-처음 숫자1의 좌표를 구할 때 가로 30, 세로 30으로 자르기 때문에 숫자 1의 좌측 대각선 위에 마우스를 위치해야함
+처음 1의 좌표를 구할 때 가로 30, 세로 30으로 자르기 때문에 
+
+1의 좌측 대각선 위에 마우스를 위치해야함
 
 ##### 실행
 

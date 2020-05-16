@@ -66,7 +66,7 @@ pyautogui.typewrite("hello")
 
 ![](C:\Users\multicampus\Desktop\입원공ㄴ부\계산기2.JPG)
 
- 
+ ![](../../assets/images/study/pyautogui/계산기2.JPG)
 
 이럴땐 클릭할 부분에 스크린샷을 찍어서 좌표값을 구하면 됨
 

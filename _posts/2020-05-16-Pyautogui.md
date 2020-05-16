@@ -1,8 +1,11 @@
 ---
-title: "Pyautogui를 이용한 마우스, 키보드 자동화"
+title: "Pyautogui"
 date: 2020-05-16 20:32:00 -0400
 categories: Study
 ---
+
+[Pyautogui를 이용한 마우스, 키보드 자동화]
+
 
 
 ### 설치

@@ -4,7 +4,7 @@ date: 2020-05-17 12:32:00 -0400
 categories: Study
 ---
 
-[Beautifulsoup을 이용한 네이버블로그 검색결과 크롤링]
+[파이썬 Beautifulsoup을 이용한 네이버블로그 검색결과 크롤링]
 
 
 
@@ -40,7 +40,7 @@ print(soup)
 
 
 
-실행결과 : url에 있는 모든 Html 전체를 가져옴
+실행결과 : url에 있는 html 정보를 가져옴
 
 ![](../../assets/images/study/beautifulsoup/html 결과.JPG)
 

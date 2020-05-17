@@ -1,5 +1,5 @@
 ---
-title: "크롤링(2)"
+title: "Crawling(2)"
 date: 2020-05-17 14:32:00 -0400
 categories: Study
 ---

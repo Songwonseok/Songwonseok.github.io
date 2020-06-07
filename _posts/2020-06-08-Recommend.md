@@ -14,7 +14,7 @@ categories: Study
 
   - [Table of Contents](#table-of-contents)
   
-  - [추천 시스템이란?](#추천-시스템이란? )
+  - [추천 시스템이란](#추천-시스템이란 )
   
     - 정보 필터링
   
@@ -35,7 +35,7 @@ categories: Study
   
     
 
-## 추천 시스템이란?
+## 추천 시스템이란
 
 ![추천시스템1](../../assets/images/study/recommend/추천시스템1.JPG)
 

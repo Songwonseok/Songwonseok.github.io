@@ -1,4 +1,4 @@
----
+﻿---
 title: "추천 시스템"
 date: 2020-06-08 02:32:00 -0400
 categories: Study
@@ -367,7 +367,7 @@ uesr_profile = pd.DataFrame([intercept, *coef], index=['intercept', *genres.colu
 
 
 
-#### Install
+### Install
 
 ```
 pip install pandas
@@ -378,7 +378,7 @@ pip install surprise
 
 
 
-#### Import
+### Import
 
 ```
 import pandas as pd
@@ -389,7 +389,7 @@ import surprise
 
 
 
-#### Read Data
+### Read Data
 
 ```
 data = pd.read_csv('./data/wouldyouci/ratings.csv')
@@ -399,7 +399,7 @@ data = pd.read_csv('./data/wouldyouci/ratings.csv')
 
 
 
-##### 1. Collaborative Filtering 추천 시스템에 필요한 변수만 선택
+#### 1. Collaborative Filtering 추천 시스템에 필요한 변수만 선택
 
 ```
 df = data[['user_id', 'movie_id', 'score']]
@@ -409,7 +409,7 @@ df = data[['user_id', 'movie_id', 'score']]
 
 
 
-##### 2. 데이터 변형(테이블 -> 딕셔너리)
+#### 2. 데이터 변형(테이블 -> 딕셔너리)
 
 ```
 # 테이블을 딕셔너리로 만드는 함수
@@ -426,7 +426,7 @@ def recur_dictify(frame):
 
 
 
-##### 3. 최소개수 지정
+#### 3. 최소개수 지정
 
 ```
 n1 = 5
@@ -445,7 +445,7 @@ df_to_dict = recur_dictify(df_new)
 
 
 
-##### 4. 사용자 목록, 영화 목록을 리스트로 담기
+#### 4. 사용자 목록, 영화 목록을 리스트로 담기
 
 ```
 user_list = []
@@ -462,7 +462,7 @@ movie_list = list(movie_set)
 
 
 
-##### 5. 추천 시스템에 사용할 rating 딕셔너리 만들기()
+#### 5. 추천 시스템에 사용할 rating 딕셔너리 만들기()
 
 ```
 # 학습할 데이터를 준비한다.
@@ -492,7 +492,7 @@ df = pd.DataFrame(rating_dic)
 
 ![KNN2](../../assets/images/study/recommend/KNN2.JPG)
 
-##### 6. 학습 : surprise.KNNBasic
+#### 6. 학습 : surprise.KNNBasic
 
 ```
 # 데이터를 읽어들이는 객체 생성 (rating scales : 평점 범위)
@@ -512,7 +512,7 @@ algo.fit(trainset)
 
 
 
-##### 7. 예측 : KNN(K-Nearest Neighbor) 알고리즘 
+#### 7. 예측 : KNN(K-Nearest Neighbor) 알고리즘 
 
 ```
 # user_id = 9000002
@@ -525,7 +525,7 @@ result = algo.get_neighbors(index, k=5)
 
 
 
-##### 8. Pickle 파일로 저장
+#### 8. Pickle 파일로 저장
 
 ```
 recommand_dic = {
@@ -562,7 +562,7 @@ pd.to_pickle(pickle, path)
 
 ![KNN피클](../../assets/images/study/recommend/KNN피클.JPG)
 
-##### 9. Pickle 파일에서 바로 꺼내쓰기(user_id = 9000002)
+#### 9. Pickle 파일에서 바로 꺼내쓰기(user_id = 9000002)
 
 ```
 user_id = 9000002

@@ -10,7 +10,7 @@ categories: Study
 
 ### Table of Contents
 
-- [추천 시스템](#추천-시스템)
+- 추천 시스템
 
   - [Table of Contents](#table-of-contents)
   

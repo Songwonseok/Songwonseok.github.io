@@ -74,6 +74,3 @@ categories: Study
 ![알고리즘3](../../assets/images/study/recommend/알고리즘3.JPG)
 
 - 구매/소비 패턴이 비슷한 사용자를 한 집단으로 보고 그 집단에 속한 소비자들의 취향을 추천하는 방식
-
-
-

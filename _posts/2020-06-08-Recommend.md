@@ -445,7 +445,7 @@ df_new = df[df['movie_id'].isin(filter_movies) & df['user_id'].isin(filter_users
 df_to_dict = recur_dictify(df_new)
 ```
 
-
+![dic](../../assets/images/study/recommend/dic.JPG)
 
 #### 4. 사용자 목록, 영화 목록을 리스트로 담기
 

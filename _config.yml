@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko"
 title                    : "Song's projects"
 title_separator          : "-"
 subtitle                 : "Thank you for coming."# site tagline that appears below site title in masthead
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Song Won Seok"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "https://developsong.tistory.com/"
+  bio              : "개인 공부 블로그"
   location         : "Seoul"
   email            : "dnjstjr0517@gmail.com"
   github           : "songwonseok"
@@ -309,4 +309,14 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
 remote_theme : mmistakes/minimal-mistakes

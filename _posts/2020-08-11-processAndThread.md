@@ -8,6 +8,10 @@ categories: Study
 
 
 
+[Workflow: Git flow, Github flow, Gitlab flow]
+
+오늘은 Git을 다루는 Workflow인 Git flow, Github flow, Gitlab flow에 대해서 공부해보았습니다.
+
 ### 프로세스란 무엇인가?
 
 **- 프로세스 :** 자기 자신만의 주소 공간을 갖는 독립적인(Self-Contained) 실행 프로그램

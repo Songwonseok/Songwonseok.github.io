@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Portfolio"
-    url: /Portfolio/
   - title: "Study"
     url: /Study/
   - title: "Algorithm"
     url: /Algorithm/
+  - title: "Portfolio"
+    url: /Portfolio/

@@ -5,5 +5,5 @@ permalink: /Study/
 taxonomy: Study
 author_profile: true
 ---
-This is a post related to Study :books: 
+This is a post related to Study 📚
 

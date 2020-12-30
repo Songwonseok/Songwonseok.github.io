@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Song's projects"
+title                    : "Song's Velog"
 title_separator          : "-"
 subtitle                 : "Thank you for coming."# site tagline that appears below site title in masthead
 name                     : "Song Wonseok"
@@ -107,23 +107,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Song Won Seok"
+  name             : "Song Wonseok"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "개인 공부 블로그"
+  bio              : "개인 학습 블로그입니다."
   location         : "Seoul"
   email            : "dnjstjr0517@gmail.com"
   github           : "songwonseok"
   backjun          : "dnjstjr0517"
   instagram       : "song7331"
-  Website       : "https://developsong.tistory.com/"	
 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://developsong.tistory.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

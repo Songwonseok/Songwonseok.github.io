@@ -1,5 +1,5 @@
 ---
-title: "Crawling(2)"
+title: "크롤링(2) - 이미지 검색결과 다운로드"
 date: 2020-05-17 14:32:00 -0400
 categories: Study
 ---

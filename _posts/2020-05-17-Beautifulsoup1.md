@@ -1,5 +1,5 @@
 ---
-title: "Crawling(1)"
+title: "크롤링(1) - 네이버블로그 검색결과 크롤링"
 date: 2020-05-17 12:32:00 -0400
 categories: Study
 ---

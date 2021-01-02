@@ -1,5 +1,5 @@
 ---
-title: "Pyautogui"
+title: "Pyautogui - 마우스, 키보드 자동화 예제"
 date: 2020-05-16 20:32:00 -0400
 categories: Study
 ---
@@ -68,8 +68,6 @@ pyautogui.typewrite("hello")
 계산기의 위치가 이동하면 숫자 1의 좌표값도 변경됨
 
 ![](../../assets/images/study/pyautogui/계산기1.JPG)
-
-![](C:\Users\multicampus\Desktop\입원공ㄴ부\계산기2.JPG)
 
  ![](../../assets/images/study/pyautogui/계산기2.JPG)
 

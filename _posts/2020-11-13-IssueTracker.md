@@ -7,8 +7,10 @@ categories: Toy
 
 부스트캠프 2020 멤버십 3주 그룹프로젝트입니다.
 
+
+
 # 🙌 37조의 이슈트래커에 방문하신걸 환영합니다!
-<div align="center">
+
 ![Node.js](https://img.shields.io/badge/Node.js-v12.18.2-green?logo=Node.js) 
 ![express](https://img.shields.io/badge/express-4.16.1-skyblue?logo=Node.js)
 ![React](https://img.shields.io/badge/react-17.0.1-blue?logo=react) 
@@ -16,7 +18,6 @@ categories: Toy
 ![Webpack](https://img.shields.io/badge/Webpack-5.2.0-blue?logo=Webpack) 
 ![mysql](https://img.shields.io/badge/mysql-8.0.21-skyblue?logo=mysql)
 
-</div>
 
 ## 👨🏻‍💻 기술스택
 > **프론트엔드** : React, Javascript, Webpack, Babel  

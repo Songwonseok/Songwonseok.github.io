@@ -5,7 +5,11 @@ categories: Toy
 ---
 [Vanilla JS를 이용한 가계부 웹서비스 구현]
 
-# AccountBook
+
+
+<br> 
+
+## 💰AccountBook
 
 1주차엔 백엔드, 2주차엔 프론트엔드를 구현했습니다.
 

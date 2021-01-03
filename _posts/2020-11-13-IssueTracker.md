@@ -39,6 +39,32 @@ categories: Toy
 
 <br>
 
+
+
+## 학습목표
+
+### BE
+
+- MySQL과 Sequelize ORM 사용
+- 깃허브 Oauth 로그인 기능 구현
+- 프론트에서 필요한 API 구현
+- ~~Typescript 적용~~
+
+### FE
+
+- React.js 라이브러리 사용하여 구현
+  - 모든 React 컴포넌트 형태는 클래스 형태가 아니고, 함수 형태로 개발
+- 스타일작업은 'css in js' 방식의 라이브러리를 사용
+- React-router 라이브러리를 활용한 routing 처리
+- 상태관리는 Context API와 useState, useReducer를 활용 (Redux,Mobx 사용X)
+- 아토믹 디자인 패턴 적용
+
+
+
+<br>
+
+
+
 ## 🚀 배포 Link
 - ~~[IssueTracker-37](http://118.67.132.242/)~~
 

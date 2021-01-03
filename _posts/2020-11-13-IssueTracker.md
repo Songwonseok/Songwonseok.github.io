@@ -29,6 +29,7 @@ categories: Toy
 <br>
 
 ## 💁🏻 팀원소개
+
 | 캠퍼번호 | 이름   | GitHub                                         |
 | -------- | ------ | ---------------------------------------------- |
 | J059     | 김학준 | [@Kimakjun](https://github.com/Kimakjun)       |
@@ -48,9 +49,9 @@ categories: Toy
 
 - [Backlog](https://docs.google.com/spreadsheets/d/1I4r4KTmzjdYUg7-R_qTWRfR1UDUo5JL6P-VQsew-LsA/edit#gid=0)
 - [ERD](https://github.com/boostcamp-2020/IssueTracker-37/wiki/ERD)
-- [Ground Rule
-
+- [Ground Rule](https://github.com/boostcamp-2020/IssueTracker-37/wiki/1.-Ground-Rule)
 
 
 ### 🔍[깃허브 링크](https://github.com/boostcamp-2020/IssueTracker-37)
 
+<br>

@@ -4,5 +4,7 @@ main:
     url: /Study/
   - title: "Algorithm"
     url: /Algorithm/
+  - title: "Toy"
+    url: /Toy/
   - title: "Portfolio"
     url: /Portfolio/

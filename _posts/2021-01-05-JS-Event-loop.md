@@ -7,7 +7,7 @@ categories: Study
 
 [Javascript의 Call Stack과 Event Loop]
 
-자바스크립트의 event loop를 공부하다가 [TOAST Meetup!](https://meetup.toast.com/posts/89) 과 [iamsjy17.github.io](https://iamsjy17.github.io/javascript/2019/07/20/how-to-works-js.html) 이 너무 잘 정리되어 있어서 스크랩했습니다.
+자바스크립트의 event loop를 공부하다가 [TOAST Meetup!](https://meetup.toast.com/posts/89) 과 [iamsjy17.github.io](https://iamsjy17.github.io/javascript/2019/07/20/how-to-works-js.html) 이 잘 정리되어 있어서 스크랩했습니다.
 
 
 

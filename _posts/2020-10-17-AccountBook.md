@@ -112,7 +112,7 @@ URL : ~~http://115.85.182.190/~~
 
 
 
-### 🔍[깃허브 링크](https://github.com/Songwonseok/VanillaJS-Trello)
+### 🔍[깃허브 링크](https://github.com/Songwonseok/VanillaJS-AccountBook)
 
 
 
